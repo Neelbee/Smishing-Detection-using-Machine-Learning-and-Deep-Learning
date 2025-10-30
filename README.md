@@ -32,8 +32,8 @@ A hybrid **CNN + BERT** model captures both contextual and spatial text features
 ## 🧠 Dataset  
 
 Collected and preprocessed **13K+ SMS samples** from:  
-- 📂 [Kaggle Smishing Dataset](https://www.kaggle.com/)  
-- 📂 [Mendeley SMS Spam Collection](https://data.mendeley.com/)  
+- 📂 [Kaggle Smishing Dataset](https://www.kaggle.com/datasets/galactus007/sms-smishing-collection-data-set)  
+- 📂 [Mendeley SMS Spam Collection](https://data.mendeley.com/datasets/f45bkkt8pr/1)  
 
 **Preprocessing Steps:**  
 - Text cleaning (HTML tags, punctuation removal)  
